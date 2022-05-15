@@ -20,7 +20,7 @@ export default function Home() {
           <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">Apaixonado por Tecnologia e desenvolvimento a tempos, busquei me especializar e aprender cada vez mais. Estudo Desenvolvimento Web na Trybe, uma escola que vai do conhecimento técnico em programação ao aprender a trabalhar e desenvolver capacidades socioemocionais. Trabalho e acredito em projetos que possam gerar uma virada de chave positiva na vida das pessoas.</p>
         </div>
       </div>
-      <div className="w-1/2 h-1/2 my-8 mx-8 rounded-sm bg-orange-700">
+      <div className="w-1/2 h-1/2 my-8 mx-8 rounded-sm">
         <Image src={foto} alt="minha foto" />
         {/* vou deixar assim por enquanto dificuldade em estilizar a tag image */}
       </div>
